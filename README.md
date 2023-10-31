@@ -22,5 +22,5 @@ Before you begin, ensure you have met the following requirements:
 - Composer installed to manage PHP dependencies.
 
  ## Installation
- composer require google/apiclient:^2.12
- include inside mainfile require_once 'vendor/autoload.php';
+- composer require google/apiclient:^2.12
+- include inside mainfile require_once 'vendor/autoload.php';
