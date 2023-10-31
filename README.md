@@ -25,4 +25,5 @@ Before you begin, ensure you have met the following requirements:
 - composer require google/apiclient:^2.12
 - include inside mainfile require_once 'vendor/autoload.php';
 
-![Youtube-Api-](https://github.com/HIRAL262/Youtube-API/assets/88439789/6db92509-196a-460c-b5c3-e117fe07129c)
+![Youtube-Api- (1)](https://github.com/HIRAL262/Youtube-API/assets/88439789/44e1429a-722b-4a2b-a1a6-4a539f99b2d0)
+
